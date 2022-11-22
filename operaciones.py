@@ -1,5 +1,5 @@
 def m_c_d(a, b):
-    While a%b !=0:
+    While (a%b !=0):
         a2 = a
         b2 = b
 
